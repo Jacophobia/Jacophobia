@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jacophobia
 - 👀 I’m interested in rock climbing, reading, writing code, and playing board/card games.
 - 🌱 I’m currently learning Python, C++, Java, HTML, CSS, and C#.
-- 💞️ I’m looking to collaborate on game development.
+- 💞️ I’m looking to collaborate cloud development projects.
 - 📫 To reach me, email me at: jacob.morgan.developer@gmail.com
 
 <!---
