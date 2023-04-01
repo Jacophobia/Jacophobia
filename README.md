@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jacophobia
 - 👀 I’m interested in rock climbing, reading, writing code, and playing board/card games
-- 🌱 I’m proficient in C++, Rust, Erlang, Elixir, Clojure, Java, Python, Typescript/JavaScript, HTML, and CSS
+- 🌱 I’m proficient in Python, C++, Rust, Erlang, Elixir, Clojure, Java, Typescript/JavaScript, HTML, and CSS
 - 🏫 I studied Software Engineering with an emphasis in System Design at Brigham Young University - Idaho
 - 📫 To reach me, email me at: jacob.morgan.dev@gmail.com
 
